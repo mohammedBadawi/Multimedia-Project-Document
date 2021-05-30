@@ -176,6 +176,16 @@ INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapte
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch2.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/eq.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/eq.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/eq.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsl1000.tfm
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/cl.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/cl.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/cl.png
 OUTPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch3.aux
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch3.tex
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch3.tex
@@ -190,6 +200,7 @@ INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapte
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch3.aux
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.out
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.out
+INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1000.600pk
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk

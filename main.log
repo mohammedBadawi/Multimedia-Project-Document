@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.7)  30 MAY 2021 20:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.7)  30 MAY 2021 23:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -329,7 +329,7 @@ LaTeX Info: Redefining \nameref on input line 63.
 \openout2 = `base.aux'.
 
  (/home/memad/Desktop/multimedia/document/Multimedia-Project-Document/base.tex
-<Images/ASU.png, id=40, 1003.5894pt x 1003.5894pt>
+<Images/ASU.png, id=48, 1003.5894pt x 1003.5894pt>
 File: Images/ASU.png Graphic file (type png)
 <use Images/ASU.png>
 Package pdftex.def Info: Images/ASU.png  used on input line 5.
@@ -374,16 +374,48 @@ Chapter 1.
 
  (/home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch2.tex
 Chapter 2.
-) [5
+[5
 
 
 
 ]
+<Images/hist.png, id=106, 1235.61626pt x 434.62375pt>
+File: Images/hist.png Graphic file (type png)
+<use Images/hist.png>
+Package pdftex.def Info: Images/hist.png  used on input line 58.
+(pdftex.def)             Requested size: 199.15439pt x 113.80858pt.
+<Images/eq.png, id=107, 89.58469pt x 38.39343pt>
+File: Images/eq.png Graphic file (type png)
+<use Images/eq.png>
+Package pdftex.def Info: Images/eq.png  used on input line 70.
+(pdftex.def)             Requested size: 113.81775pt x 56.90924pt.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.81 \vskip
+            0.2inpdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.81 \vskip
+            0.2in </home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png> </home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/eq.png>]
+<Images/cl.png, id=117, 695.59875pt x 111.41624pt>
+File: Images/cl.png Graphic file (type png)
+<use Images/cl.png>
+Package pdftex.def Info: Images/cl.png  used on input line 84.
+(pdftex.def)             Requested size: 227.61655pt x 56.90483pt.
+) [7pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 \include{chapters/ch2}
+                            </home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/cl.png>]
 \openout2 = `chapters/ch3.aux'.
 
  (/home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch3.tex
 Chapter 3.
-) [6
+) [8
 
 
 
@@ -394,22 +426,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 50BAD79C1EE200B0021493943235F211;571.
+(rerunfilecheck)             Checksum: 5DB708ABACE87707F25F2A1840268DDB;713.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 76.
  ) 
 Here is how much of TeX's memory you used:
- 7436 strings out of 483140
- 119201 string characters out of 5965152
- 470267 words of memory out of 5000000
- 22256 multiletter control sequences out of 15000+600000
- 540833 words of font info for 35 fonts, out of 8000000 for 9000
+ 7471 strings out of 483140
+ 119681 string characters out of 5965152
+ 471268 words of memory out of 5000000
+ 22277 multiletter control sequences out of 15000+600000
+ 541652 words of font info for 36 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 35i,5n,45p,311b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk>
-Output written on /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.pdf (7 pages, 261593 bytes).
+ 35i,6n,45p,311b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk>
+Output written on /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.pdf (9 pages, 464010 bytes).
 PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 410 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
