@@ -65,11 +65,13 @@ smallest bin for each corresponding bins in the two histograms
 for input image I and the model image M normalized to the
 number of pixels in the model image.
 \vskip 0.2in
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=40mm,height=20mm]{Images/eq.png}
     \caption{histogram distance equation}
   \end{figure}
+
   \vskip 0.2in
 \subsubsection{Color Layout}
 This technique is similar to histogram based technique except it solves the problem of getting results of images with a low 
@@ -79,11 +81,13 @@ In this algorithm we divide each image into 5x5 array of blocks so we get 25 sub
 To find the distance between to images we get the distance between the histograms of each two corresponding block, 
 then we calculate the total distance by finding the summation of all blocks distance.
 \vskip 0.2in
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=80mm,height=20mm]{Images/cl.png}
     \caption{color layout distance equation}
   \end{figure}
+  
   \vskip 0.2in
 
 \subsection{Videos techniques}

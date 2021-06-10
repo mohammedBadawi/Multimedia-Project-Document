@@ -12,3 +12,12 @@
 \contentsline {chapter}{\numberline {3}Project planning}{8}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Task breakdown structure}{8}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Time plan and Gant chart}{8}{section.3.2}%
+\contentsline {chapter}{\numberline {4}System Design And Architecture}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System architecture}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Multimedia database design}{9}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}The purpose of our data base}{9}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Required information}{9}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Database Schema}{10}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Primary keys and foriegn keys}{11}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}System design}{11}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Testing scenarios and results}{11}{section.4.4}%
