@@ -13,7 +13,7 @@ This is a simple content based video / image retrival one technique for each.
 Our project uses a number of open source libraries to work properly:
 
 - [openCV2] - Reading input images and videos.
-- [pyQt] - open source python giu framework.////////////////////////////////////////////////////////
+- [pyside2] - open source python gui framework.
 - [sqlalchemy] - connects python with database.
 - [video-kf] - helps extracting video key frames.
 
@@ -22,13 +22,8 @@ And of course our project itself is open source with a [https://github.com/moham
 
 ## Installation
 
-Clone the repository and then run .///////////////////////////////////////
+Clone the repository and then run main.py.
 
-Install the dependencies and devDependencies and start the server.//////////////////////////////////////////////
+Install the dependencies mentioned in Tech section above
 
-```sh
-cd dillinger
-npm i
-node app
-```
 
