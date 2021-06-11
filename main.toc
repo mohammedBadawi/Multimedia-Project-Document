@@ -14,12 +14,12 @@
 \contentsline {chapter}{\numberline {3}Project planning}{9}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Task breakdown structure}{9}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Time plan and Gant chart}{10}{section.3.2}%
-\contentsline {chapter}{\numberline {4}System Design And Architecture}{11}{chapter.4}%
-\contentsline {section}{\numberline {4.1}System architecture}{11}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Multimedia database design}{11}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}The purpose of our data base}{11}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Required information}{11}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Database Schema}{12}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Primary keys and foriegn keys}{13}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}System design}{13}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Testing scenarios and results}{13}{section.4.4}%
+\contentsline {chapter}{\numberline {4}System Design And Architecture}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System architecture}{12}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Multimedia database design}{12}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}The purpose of our data base}{12}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Required information}{12}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Database Schema}{13}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Primary keys and foriegn keys}{14}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}System design}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Testing scenarios and results}{14}{section.4.4}%
