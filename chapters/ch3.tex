@@ -1,92 +1,17 @@
 \chapter{Project planning}
+
+
 \section{Task breakdown structure}
 %Begin from here
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=120mm,height=100mm]{Images/TBDS.png}
+    \caption{Tasks break down structure}
+  \end{figure}
 
 
 
 
 \section{Time plan and Gant chart}
 %Begin from here
-
-Firstly, we split all project team members into 3 basic groups in according to simplify the overall problem into 
-smaller ones that we can deal with.
-\vskip 0.2in
-We decided to start with designing the database and find best modelling ways to fit our storage requirements.
-\vskip 0.2in
-The second group mission is to implement software functions that do the following:
-\vskip 0.2in
-    1- extract data from videos/images.
-    2- store the different representations of input data into the database.
-    3- impelemnt the required techinques that fit project targets.
-
-According to third group, it provides the project with a well-interactive graphical user interface.
-
-Finally, the last group provides the project full documentation.
-
-
-
-%\documentclass[border=10pt]{standalone}%{article}
-%\usepackage[margin=1cm]{geometry}
-%\usepackage{pgfgantt}
-%\usepackage{graphicx}
-%\usepackage{xcolor}
-%\usetikzlibrary{positioning}
-
-\ganttset{group/.append style={black},
-milestone/.append style={red},
-progress label node anchor/.append style={text=red}}
-
-\begin{document}
-
-%    \begin{figure}
-%    \centering
-     \begin{ganttchart}[%Specs
-     y unit title=0.5cm,
-     y unit chart=0.7cm,
-     vgrid,hgrid,
-     title height=1,
-%     title/.style={fill=none},
-     title label font=\bfseries\footnotesize,
-     bar/.style={fill=blue},
-     bar height=0.1,
-%   progress label text={},
-     group right shift=0,
-     group top shift=0.7,
-     group height=.3,
-     group peaks width={0.2},
-     inline]{1}{20}
-    %labels
-    \gantttitle{Time Plan starting from 15 May 2021}{20}\\  % title 1
-    %\gantttitle[]{2013}{12}                 % title 2
-    %\gantttitle[]{2014}{12} \\              
-    \gantttitle{W1}{5}                      % title 3
-    \gantttitle{W2}{5}
-    \gantttitle{W3}{5}
-    \gantttitle{W4}{5}
-    % Setting group if any
-    \ganttgroup[inline=false]{Group 1}{1}{5}\\ 
-    \ganttbar[progress=10,inline=false]{Database}{1}{5}\\
-
-    \ganttgroup[inline=false]{Group 2}{6}{10}\\
-    \ganttbar[progress=18,inline=false]{Image Class and video Class}{6}{7} \\ 
-    \ganttbar[progress=26,inline=false]{Comparator Function}{7}{8} \\ 
-    \ganttbar[progress=34,inline=false]{Implementing Retrival Techniques}{8}{10} \\ 
-
-
-    \ganttgroup[inline=false]{Group 3}{11}{15}\\
-    \ganttbar[progress=50,inline=false]{GUI}{11}{15}\\
-    
-    \ganttgroup[inline=false]{Group 4}{16}{20}\\
-    \ganttbar[progress=100,inline=false]{Report}{16}{20} \\ 
-    
-
-    %\ganttmilestone[inline=false]{Comparator Function}{17} \\
-    %\ganttbar[progress=5,inline=false]{Creating project report}{11}{20} \\
-    %\ganttmilestone[inline=false]{Milestone 3}{22} \\       
-
-    %\ganttbar[progress=50,inline=false, bar progress label node/.append style={below left= 10pt and 7pt}]{Task B}{13}{24} \\ \\
-\end{ganttchart}
-    \caption{Gantt diagram for Multimedia project for a month}
-%\end{figure}
-\end{document}

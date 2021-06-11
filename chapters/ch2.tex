@@ -92,5 +92,23 @@ then we calculate the total distance by finding the summation of all blocks dist
 
 \subsection{Videos techniques}
 %Begin from here
-
-
+\subsubsection{Feature extraction technique}
+\vskip 0.2in
+To make a content based video retrieval system, we have to deal with videos as frames and compare frame with each others as images.
+But applying this technique would consume a lot of memory to store the whole frame of each video.
+So the key frames role appear here.
+\vskip 0.2in
+A key frame (or keyframe) in animation and filmmaking is a drawing or shot that defines the starting 
+and ending points of any smooth transition. These are called frames because their position in time is measured in 
+frames on a strip of film or on a digital video editing timeline.
+\vskip 0.2in
+So we make a key frame extraction operation for each video before inserting it to the database.
+then we deal with key frames as the same manners of images, We caculate the histogram for each key frame and divide the range into 
+five regions then we get the averge of each region resulting the five values that we store in the data base, after that we use these values
+as a initial filtering to get the most similar frames of the input ,then we use the accurate -255 values- histogram to make a second step filtering.
+\vskip 0.2in
+\subsubsection{Distance calculation}
+To get the distance between two videos we use the naive video similarity technique.
+In this technique we calculate how many key frames in the query video is similar to one or more key frame in the model video, then 
+we calculate the ration between these key frames to the total number of the key frames, after that we compare the distance with a threshold valueand if the 
+distance is lower than this threshold, the two videos are similar otherwise they are not similar.
