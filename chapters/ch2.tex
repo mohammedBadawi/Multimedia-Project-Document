@@ -14,9 +14,10 @@ We implement three techniques (Histogram - Color Layout - Mean Color)
 Convert the image to simple histogram by imageHistogram () function where change 256 bins to 5 bins to filter 
 the sorted images in data base, we get some image which like the simple histogram then we use accurateHistogram ()
  function to get real histogram, when insert the new input image to data base save simple histogram in DB.
- \vskip 0.2in
- We use comparator class which contains some functions such as (add_search_hist () – compare_hist ()),
-compare_hist () to compare between input image histogram which add_search_hist () save it in class  
+\vskip 0.2in
+ We use comparator class which contains some functions such as\linebreak 
+ (add\_search\_hist () – compare\_hist ()),
+compare\_hist () to compare between input image histogram which add\_search\_hist () save it in class  
  and image histograms in DB.
 
 \vskip 0.2in
@@ -32,8 +33,8 @@ and search in DB by this average.
 \vskip 0.3in
 \subsection{Video: }
 \subsubsection{Histogram:}
-we convert the video into a group of images, every image is keyframe where keyframe is a frame where we define
- changes in animation. This occurs by KeyFrameEX() where take video and return keyframes then we deal with 
+We convert the video into a group of images, every image is keyframe where keyframe is a frame where we define
+ changes in animation. \linebreak This occurs by KeyFrameEX() where take video and return keyframes then we deal with 
  keyframe as image and read it by getImage() ,in data base we store video as keyframes. 
 
 \vskip 0.2in
