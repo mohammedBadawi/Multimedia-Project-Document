@@ -22,15 +22,15 @@
 \contentsline {section}{\numberline {3.2}Time plan and Gant chart}{13}{section.3.2}%
 \contentsline {chapter}{\numberline {4}System Design And Architecture}{15}{chapter.4}%
 \contentsline {section}{\numberline {4.1}System architecture}{15}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Multimedia database design}{15}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}The purpose of our data base}{15}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Required information}{15}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.2}Multimedia database design}{16}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}The purpose of our data base}{16}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Required information}{16}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}Database Schema}{16}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}Primary keys and foriegn keys}{17}{subsection.4.2.4}%
 \contentsline {section}{\numberline {4.3}System design}{17}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Testing scenarios and results}{18}{section.4.4}%
-\contentsline {chapter}{\numberline {5}End User Guide}{19}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Steps To use the project}{19}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Features}{19}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Conclusion}{20}{chapter.6}%
-\contentsline {chapter}{\numberline {7}References}{21}{chapter.7}%
+\contentsline {section}{\numberline {4.4}Testing scenarios and results}{19}{section.4.4}%
+\contentsline {chapter}{\numberline {5}End User Guide}{24}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Steps To use the project}{24}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Features}{24}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Conclusion}{25}{chapter.6}%
+\contentsline {chapter}{\numberline {7}References}{26}{chapter.7}%
