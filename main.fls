@@ -168,6 +168,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2488.tfm
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.toc
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.toc
 OUTPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsl1000.tfm
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.lof
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.lof
 OUTPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.lof
@@ -179,7 +180,6 @@ INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapte
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch1.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2074.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsl1000.tfm
 OUTPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch2.aux
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch2.tex
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch2.tex
@@ -240,8 +240,8 @@ INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.o
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.out
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk
-INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1000.600pk
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk
+INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1000.600pk
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk
 INPUT /home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk

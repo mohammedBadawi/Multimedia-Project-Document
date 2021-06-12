@@ -1,34 +1,36 @@
-\contentsline {chapter}{\numberline {1}Introduction}{4}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Project Description}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Detailed project description}{6}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Image:}{6}{subsection.2.1.1}%
-\contentsline {subsubsection}{Histogram:}{6}{section*.4}%
-\contentsline {subsubsection}{Color Layout:}{6}{section*.5}%
-\contentsline {subsubsection}{Mean Color:}{7}{section*.6}%
-\contentsline {subsection}{\numberline {2.1.2}Video: }{7}{subsection.2.1.2}%
-\contentsline {subsubsection}{Histogram:}{7}{section*.7}%
-\contentsline {section}{\numberline {2.2}Beneficiaries of the project}{7}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Detailed analysis}{7}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Techniques description}{8}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Images techniques}{8}{subsection.2.4.1}%
-\contentsline {subsubsection}{Mean color}{8}{section*.8}%
-\contentsline {subsubsection}{Histogram}{8}{section*.9}%
-\contentsline {subsubsection}{Color Layout}{9}{section*.10}%
-\contentsline {subsection}{\numberline {2.4.2}Videos techniques}{10}{subsection.2.4.2}%
-\contentsline {subsubsection}{Feature extraction technique}{10}{section*.11}%
-\contentsline {subsubsection}{Distance calculation}{10}{section*.12}%
-\contentsline {chapter}{\numberline {3}Project planning}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Task breakdown structure}{11}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Time plan and Gant chart}{12}{section.3.2}%
-\contentsline {chapter}{\numberline {4}System Design And Architecture}{14}{chapter.4}%
-\contentsline {section}{\numberline {4.1}System architecture}{14}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Multimedia database design}{14}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}The purpose of our data base}{14}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Required information}{14}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Database Schema}{15}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Primary keys and foriegn keys}{16}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}System design}{16}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Testing scenarios and results}{16}{section.4.4}%
-\contentsline {chapter}{\numberline {5}End User Guide}{17}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{18}{chapter.6}%
-\contentsline {chapter}{\numberline {7}References}{19}{chapter.7}%
+\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Project Description}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Detailed project description}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Image:}{7}{subsection.2.1.1}%
+\contentsline {subsubsection}{Histogram:}{7}{section*.4}%
+\contentsline {subsubsection}{Color Layout:}{7}{section*.5}%
+\contentsline {subsubsection}{Mean Color:}{8}{section*.6}%
+\contentsline {subsection}{\numberline {2.1.2}Video: }{8}{subsection.2.1.2}%
+\contentsline {subsubsection}{Histogram:}{8}{section*.7}%
+\contentsline {section}{\numberline {2.2}Beneficiaries of the project}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Detailed analysis}{8}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Techniques description}{9}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Images techniques}{9}{subsection.2.4.1}%
+\contentsline {subsubsection}{Mean color}{9}{section*.8}%
+\contentsline {subsubsection}{Histogram}{9}{section*.9}%
+\contentsline {subsubsection}{Color Layout}{10}{section*.10}%
+\contentsline {subsection}{\numberline {2.4.2}Videos techniques}{11}{subsection.2.4.2}%
+\contentsline {subsubsection}{Feature extraction technique}{11}{section*.11}%
+\contentsline {subsubsection}{Distance calculation}{11}{section*.12}%
+\contentsline {chapter}{\numberline {3}Project planning}{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Task breakdown structure}{12}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Time plan and Gant chart}{13}{section.3.2}%
+\contentsline {chapter}{\numberline {4}System Design And Architecture}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System architecture}{15}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Multimedia database design}{15}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}The purpose of our data base}{15}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Required information}{15}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Database Schema}{16}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Primary keys and foriegn keys}{17}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}System design}{17}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Testing scenarios and results}{17}{section.4.4}%
+\contentsline {chapter}{\numberline {5}End User Guide}{18}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Steps To use the project}{18}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Features}{18}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Conclusion}{19}{chapter.6}%
+\contentsline {chapter}{\numberline {7}References}{20}{chapter.7}%
