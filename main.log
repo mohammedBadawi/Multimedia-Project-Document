@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.7)  12 JUN 2021 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.7)  12 JUN 2021 20:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -388,34 +388,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--39
 \T1/cmr/m/n/10 keyframe is a frame where we de-fine changes in an-i-ma-tion.
  []
 
-[7]
-<Images/hist.png, id=200, 1235.61626pt x 434.62375pt>
+[7] [8]
+<Images/hist.png, id=207, 1235.61626pt x 434.62375pt>
 File: Images/hist.png Graphic file (type png)
 <use Images/hist.png>
-Package pdftex.def Info: Images/hist.png  used on input line 139.
+Package pdftex.def Info: Images/hist.png  used on input line 144.
 (pdftex.def)             Requested size: 199.15439pt x 113.80858pt.
- [8]
 <Images/eq.png, id=208, 89.58469pt x 38.39343pt>
 File: Images/eq.png Graphic file (type png)
 <use Images/eq.png>
-Package pdftex.def Info: Images/eq.png  used on input line 152.
+Package pdftex.def Info: Images/eq.png  used on input line 157.
 (pdftex.def)             Requested size: 113.81775pt x 56.90924pt.
-<Images/cl.png, id=209, 695.59875pt x 111.41624pt>
-File: Images/cl.png Graphic file (type png)
-<use Images/cl.png>
-Package pdftex.def Info: Images/cl.png  used on input line 168.
-(pdftex.def)             Requested size: 227.61655pt x 56.90483pt.
  [9pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.171 
+l.170 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.171 
-       </home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png> </home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/eq.png>]) [10pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
+l.170 
+       </home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png> </home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/eq.png>]
+<Images/cl.png, id=216, 695.59875pt x 111.41624pt>
+File: Images/cl.png Graphic file (type png)
+<use Images/cl.png>
+Package pdftex.def Info: Images/cl.png  used on input line 173.
+(pdftex.def)             Requested size: 227.61655pt x 56.90483pt.
+) [10pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -514,11 +514,11 @@ Here is how much of TeX's memory you used:
  22324 multiletter control sequences out of 15000+600000
  541987 words of font info for 37 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 35i,6n,45p,2649b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,6n,45p,2649b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/memad/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk>
-Output written on /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.pdf (20 pages, 688864 bytes).
+Output written on /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/main.pdf (20 pages, 690903 bytes).
 PDF statistics:
- 650 PDF objects out of 1000 (max. 8388607)
+ 655 PDF objects out of 1000 (max. 8388607)
  295 compressed objects within 3 object streams
  81 named destinations out of 1000 (max. 500000)
  236 words of extra memory for PDF output out of 10000 (max. 10000000)
