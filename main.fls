@@ -179,6 +179,7 @@ INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapte
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch2.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/hist.png
@@ -194,10 +195,12 @@ INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapte
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/TBDS.png
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/TBDS.png
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/TBDS.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/time_plan.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/time_plan.png
+INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/time_plan.png
 OUTPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch4.aux
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch4.tex
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/chapters/ch4.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/database.png
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/database.png
 INPUT /home/memad/Desktop/multimedia/document/Multimedia-Project-Document/Images/database.png
